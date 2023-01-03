@@ -1,0 +1,26 @@
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "thermal:flax",
+            "count": 2
+        },
+        {
+            "item": "thermal:flax_seeds",
+            "count": 1
+        }
+    ],
+    "input": {
+        "item": "thermal:flax_seeds"
+    },
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        }
+    ],
+    "time": 800.0,
+    "render": {
+        "type": "crop",
+        "block": "thermal:flax"
+    }
+}

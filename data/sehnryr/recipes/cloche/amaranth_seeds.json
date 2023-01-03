@@ -1,0 +1,26 @@
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "thermal:amaranth",
+            "count": 2
+        },
+        {
+            "item": "thermal:amaranth_seeds",
+            "count": 1
+        }
+    ],
+    "input": {
+        "item": "thermal:amaranth_seeds"
+    },
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        }
+    ],
+    "time": 1200.0,
+    "render": {
+        "type": "crop",
+        "block": "thermal:amaranth"
+    }
+}

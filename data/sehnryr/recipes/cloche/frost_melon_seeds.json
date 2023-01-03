@@ -1,0 +1,26 @@
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "thermal:frost_melon",
+            "count": 1
+        },
+        {
+            "item": "thermal:frost_melon_seeds",
+            "count": 1
+        }
+    ],
+    "input": {
+        "item": "thermal:frost_melon_seeds"
+    },
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        }
+    ],
+    "time": 2400.0,
+    "render": {
+        "type": "stem",
+        "block": "thermal:frost_melon"
+    }
+}
