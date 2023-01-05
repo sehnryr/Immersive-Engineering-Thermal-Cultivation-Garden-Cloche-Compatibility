@@ -1,7 +1,6 @@
 # Information
-This datapack add all the recipes necessary to be able to grow all the seeds from
-[Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
-using the Immersive Engineering Garden Cloche.
+This datapack add all the recipes necessary to be able to grow all the seeds from 
+[Thermal Cultivation][TC-Link] using the [Immersive Engineering][IE-Link] Garden Cloche.
 
 I've made it based on Thermal's Insolator recipes. The base time for crops to
 grow should be 800 ticks, and some have an `energy_mod` attribute I applied on
@@ -11,8 +10,10 @@ Spores/mushrooms can only be grown on mycelium and podzol like the vanilla mushr
 
 # Note
 This datapack requires
-[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) and
-[Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation).
+[Immersive Engineering][IE-Link] and [Thermal Cultivation][TC-Link].
 
 # Distribution
 Feel free to use this datapack however you like.
+
+[IE-Link]: https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
+[TC-Link]: https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation
