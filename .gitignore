@@ -1,0 +1,5 @@
+# Visual Studio Code
+.vscode/
+
+# Ignore all zip files
+**/*.zip
