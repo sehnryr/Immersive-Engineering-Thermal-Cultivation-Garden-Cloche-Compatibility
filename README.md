@@ -4,9 +4,9 @@ This datapack add all the recipes necessary to be able to grow all the seeds fro
 using the Immersive Engineering Garden Cloche.
 
 I've made it based on Thermal's Insolator recipes. The base time for crops to
-grow should be 800 ticks, and some have an **energy_mod** attribute I applied on
+grow should be 800 ticks, and some have an `energy_mod` attribute I applied on
 that base time. The output is also the same but without the additionnal drop chance
-(I've floored the **chance** attribute to get the output **count** of the new recipe).
+(I've floored the `chance` attribute to get the output `count` of the new recipe).
 Spores/mushrooms can only be grown on mycelium and podzol like the vanilla mushrooms.
 
 # Note
